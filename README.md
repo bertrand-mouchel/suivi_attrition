@@ -62,9 +62,8 @@ Il répond à trois questions essentielles pour les équipes RH :
 
 ### Prédiction Individuelle
 
-![Prédiction individuelle](docs/images/individual_prediction.png)
-
-> 📸 Pour ajouter vos captures : placez les images dans `docs/images/` en respectant les noms ci-dessus.
+![Prédiction individuelle](docs/images/individual_prediction_1.png)
+![Prédiction individuelle](docs/images/individual_prediction_2.png)
 
 ---
 
@@ -73,8 +72,8 @@ Il répond à trois questions essentielles pour les équipes RH :
 ### 1. Cloner le dépôt
 
 ```bash
-git clone https://github.com/<votre-username>/employee-attrition-analytics.git
-cd employee-attrition-analytics
+https://github.com/bertrand-mouchel/suivi_attrition.git
+cd suivi_attrition
 ```
 
 ### 2. Créer et activer un environnement virtuel
